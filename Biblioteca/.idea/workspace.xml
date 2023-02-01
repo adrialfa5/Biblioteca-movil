@@ -9,10 +9,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="50f21ac9-8955-4235-8a36-54594eadbc29" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/fondo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/portada.xml" afterDir="false" />
-    </list>
+    <list default="true" id="50f21ac9-8955-4235-8a36-54594eadbc29" name="Changes" comment="Realizo una portada, para entrar a la app" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -99,5 +96,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Realizo una portada, para entrar a la app" />
+    <option name="LAST_COMMIT_MESSAGE" value="Realizo una portada, para entrar a la app" />
   </component>
 </project>
